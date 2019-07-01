@@ -11,10 +11,7 @@ function animatedForm(){
             {
                 nextSlide(parent, nextForm);
             }
-           else if(input.type === 'text' && validateUser(input))
-            {
-                nextSlide(parent, nextForm);
-            }
+           
             else if(input.type === 'date' && validateDate(input))
             {
                 nextSlide(parent, nextForm);
