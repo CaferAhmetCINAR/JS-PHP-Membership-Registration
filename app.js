@@ -11,7 +11,7 @@ function animatedForm(){
             {
                 nextSlide(parent, nextForm);
             }
-           
+           cxvgvdfsgdfsgdf
             else if(input.type === 'date' && validateDate(input))
             {
                 nextSlide(parent, nextForm);
